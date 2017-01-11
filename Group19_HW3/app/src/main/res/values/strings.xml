@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Group19_HW03</string>
+    <string name="startQuiz">Start Quiz</string>
+    <string name="howGeek">How Geeky Are You?</string>
+    <string name="exit">Exit</string>
+    <string name="startQuizSplash">Start Quiz</string>
+    <string name="loadingQuestions">Loading Questions</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="q">Q</string>
+    <string name="quizResult">Quiz Result:</string>
+    <string name="geekType">geektype</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="uber">Uber-Geek</string>
+    <string name="semi">Semi-Geek</string>
+    <string name="non">Non-Geek</string>
+    <string name="uberDesc">You are the geek supreme! You are likely to be interested in technology,
+        science, gaming and geeky media such as Sci-Fi and fantasy. All the mean kids that used to
+        laugh at you in high school are now begging you for a job. Be proud of your geeky nature,
+        for geeks shall inherit the Earth!</string>
+    <string name="semiDesc">"Maybe you\'re just influenced by the trend, or maybe you just got it all"
+        "perfectly balanced. You have some geeky traits, but they aren\'t as "hardcore" and they"
+        "don't take over your life. You like some geeky things, but aren't nearly as obsessive about"
+        "them as the uber-geeks. You actually get to enjoy both worlds"</string>
+    <string name="nonDesc">"There isn\'t a single geeky bone in your body. You prefer to party rather"
+        "than study, and have someone else fix your computer, if need be. You\'re just too cool for"
+        "this. You probably don\'t even wear glasses!"</string>
+    <string name="geekDesc" />
+
+</resources>
