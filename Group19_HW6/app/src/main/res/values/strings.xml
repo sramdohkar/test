@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework 5</string>
+    <string name="loading_data">Loading Hourly Data</string>
+    <string name="current_location">Current Location: </string>
+    <string name="city_not_found">City Not Found!</string>
+    <string name="Add_Button_Text">+</string>
+    <string name="txtAddCity">There are no cities to display. Add using the \'ADD CITY\' button from the option menu.</string>
+    <string name="cityNameHint">City Name (Eg. Charlotte)</string>
+    <string name="stateNameHint">State Initial (Eg. NC)</string>
+    <string name="saveCityButton">Save City</string>
+    <string name="btnLeft"><![CDATA[<]]></string>
+    <string name="btnRight"><![CDATA[>]]></string>
+    <string name="line">______________________________________________________</string>
+    <string name="menu1">Add City</string>
+    <string name="menu2">Clear Saved Cities</string>
+    <string name="menu3">View Notes</string>
+    <string name="blank" />
+    <string name="saveNote">Save Note</string>
+    <string name="notelength">Enter note between 1 and 30 characters</string>
+    <string name="btnGo">btnGo</string>
+</resources>
