@@ -18,7 +18,6 @@ import android.widget.SeekBar;
 import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import java.security.PublicKey;
 
 public class MainActivity extends AppCompatActivity {
@@ -70,7 +69,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
 
         reset.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
