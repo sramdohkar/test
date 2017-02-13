@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Group19_HW04</string>
+    <string name="btnSearch">Search IMDb.com</string>
+    <string name="findMovies">Find Movies</string>
+    <string name="release">Release Date</string>
+    <string name="genre">Genre</string>
+    <string name="director">Director</string>
+    <string name="actors">Actors</string>
+    <string name="plot">Plot:</string>
+    <string name="finish">Finish</string>
+    <string name="load_list">Loading Movie List</string>
+    <string name="load_movie">Loading Movie</string>
+    <string name="not_found">Not Found</string>
+</resources>
