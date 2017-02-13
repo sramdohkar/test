@@ -21,7 +21,6 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -91,8 +90,6 @@ public class WelcomeActivity extends AppCompatActivity {
                 while((line = reader.readLine()) != null)
                 {
                     sb.append(line + "\n");
-
-
                     String[] ques = {};
                     QuizDetails qd = new QuizDetails();
                     ques = line.split(";");
