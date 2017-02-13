@@ -1,7 +1,7 @@
 /*
     Assignment HW1
     Group#19HW01.zip
-    Shashank Ramdohkar, James Budday, Jeffrey Snow
+    Shashank Ramdohkar
  */
 
 package com.example.group19_hw01;
